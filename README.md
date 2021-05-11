@@ -32,7 +32,7 @@ Other stuff can (will?) follow.
 1) clone the repo by using  
 
 ```
-git clone https://github.com/rkrug/R.bbpackage.git
+git clone https://github.com/rkrug/R-BBEdit.git
 ```
 
 
