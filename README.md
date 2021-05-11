@@ -26,8 +26,7 @@ Other stuff can follow
  
 # Installation
 1) clone the repo
-2) rename it to `R.bbproject`
-3) Double click on it or drag it into BBEdit and it will install.
+2) Double click on it or drag it into BBEdit and it will install.
 
 
 # Acknowledgements
