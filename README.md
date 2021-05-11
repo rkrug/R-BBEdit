@@ -23,7 +23,7 @@ Scripts:
 		16) ⇧⌘T - Test Package.sh
 ```
 
-The shortcuts at the beginning are the keyboard shortcuts in R. They are **not** assigned automatically.
+The shortcuts at the beginning are the keyboard shortcuts in [RStudio](https://www.rstudio.com/products/rstudio/). They are **not** assigned automatically.
  
 Other stuff can (will?) follow.
  
