@@ -4,7 +4,7 @@
 
 **<span style="color:red">I take no responsibility of what ever kind that these scripts will not do any horrible things!</span>**
 
-This package for [BBEdit](https://www.barebones.com/products/bbedit/index.html) is trying to re-create regularly used shortcuts in RStudio. It is work in progress, so please file issues and let me know if you have any additional actions ytou would like to have included.
+This package for [BBEdit](https://www.barebones.com/products/bbedit/index.html) is trying to re-create regularly used shortcuts in [RStudio](https://www.rstudio.com/products/rstudio/). It is work in progress, so please file issues and let me know if you have any additional actions ytou would like to have included.
 
 I am no BBEdit wizard, but I will look into them.
  
