@@ -8,19 +8,24 @@ This package for [BBEdit](https://www.barebones.com/products/bbedit/index.html) 
 
 I am no BBEdit wizard, but I will look into them.
 
+It is based on a makefile which is located in the directory of the R project. For each command in the `Package` section, one make target is required.
+
 # Contents:
 
 ```
 Scripts:
 	R:
-		10) ⇧⌘ - Quick Paste to R (Run selection or line).scpt
+		10)  ⌘⏎ - Quick Paste to R (Run selection or line).scpt
 		11) ⇧⌘S - Source File.scpt
 		12) ⇧⌘⏎ - Source File with echo.scpt
 		13) ⇧⌘P - Knit and preview.sh
-		14) ⇧⌘K - Knit.sh
-		15) ⇧⌘D - Document Package.sh
-		16) ⇧⌘B - TODO Install Package.sh
-		16) ⇧⌘T - Test Package.sh
+		14) ⇧⌘K - Knit.sh		
+		Package
+			15) ⇧⌘B - Build Package.sh
+			15) ⇧⌘D - Document Package.sh
+			16) ⇧⌘E - Check Package.sh
+			16) ⇧⌘I - Install Package.sh
+			16) ⇧⌘T - Test Package.sh
 ```
 
 The shortcuts at the beginning are the keyboard shortcuts in [RStudio](https://www.rstudio.com/products/rstudio/). They are **not** assigned automatically.
